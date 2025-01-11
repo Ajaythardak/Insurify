@@ -7,7 +7,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "render-deploy": "npm install --legacy-peer-deps && ng build --prod"
   },
   "private": true,
   "dependencies": {
@@ -24,7 +25,6 @@
     "@angular/router": "^14.0.0",
     "@stomp/stompjs": "^6.1.2",
     "@types/pdfmake": "^0.2.1",
-    "angular-responsive-carousel": "^2.1.2",
     "chart.js": "^3.9.1",
     "dom-to-image": "^2.6.0",
     "force": "^0.0.3",

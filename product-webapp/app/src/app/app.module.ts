@@ -69,7 +69,7 @@ import { CalculatorComponent } from './calculator/calculator.component';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { DetailsComponent } from './details/details.component';
 import { InsuranceDetailsComponent } from './insurance-details/insurance-details.component';
-import { IvyCarouselModule } from 'angular-responsive-carousel';
+// import { IvyCarouselModule } from 'angular-responsive-carousel';
 import { RenewalPolicyHomeComponent } from './renewal-policy-home/renewal-policy-home.component';
 import { ChatComponent } from './chat/chat.component';
 import { ZoomonhoverDirective } from './zoomonhover.directive';
